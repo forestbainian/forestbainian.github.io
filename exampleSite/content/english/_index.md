@@ -28,7 +28,6 @@ features:
 
   - title: "Questions We Talked About as Applied Linguists"
     image: "/images/service-2.png"
-    content: "Recommended readings:"
     bulletpoints:
       - "What are some ways of conceptualizing (language) learning?"
       - "How do applied linguists understand and talk about language, identity, and difference?"
