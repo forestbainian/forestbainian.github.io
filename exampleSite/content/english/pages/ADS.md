@@ -8,9 +8,7 @@ description: "Academic Discourse Socialization"
 draft: false
 ---
 
-{{< toc >}}
-
-Academic discourse socialization refers to the process through which individuals learn to participate in the language, norms, and practices of academic communities. It involves more than acquiring academic vocabulary or writing skills; it encompasses understanding the implicit cultural expectations, communication styles, and social practices that define a specific academic context.
+Academic discourse socialization (ADS) refers to the process through which individuals learn to participate in the language, norms, and practices of academic communities. It involves more than acquiring academic vocabulary or writing skills; it encompasses understanding the implicit cultural expectations, communication styles, and social practices that define a specific academic context.
 
 # Why is ADS Relevant to You?
 As educators and administrators, you play a pivotal role in fostering an environment that supports students in their academic journeys. Understanding academic discourse socialization can help you:
@@ -36,6 +34,6 @@ Provide resources (e.g., writing centers, speaking workshops) to support student
 
 [Itoi, K., & Mizukura, R. (2024). Academic discourse socialization in a “bilingual” undergraduate course: Group work among students with diverse cultural and linguistic backgrounds. International Journal of Applied Linguistics, 34(4), 1300-1315.](https://doi.org/10.1111/ijal.12571)
 
-[Kiczkowiak, M., & Lowe, R. J. (2024). Native-speakerism in english language teaching: 'native speakers' more likely to be invited as conference plenary speakers. Journal of Multilingual and Multicultural Development, 45(5), 1408-1423.][https://doi.org/10.1080/01434632.2021.1974464]
+[Kiczkowiak, M., & Lowe, R. J. (2024). Native-speakerism in english language teaching: 'native speakers' more likely to be invited as conference plenary speakers. Journal of Multilingual and Multicultural Development, 45(5), 1408-1423.](https://doi.org/10.1080/01434632.2021.1974464)
 
 <hr>
