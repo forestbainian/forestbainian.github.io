@@ -13,7 +13,7 @@ banner:
 features:
   - title: "Research Areas of Applied Linguistics"
     image: "/images/service-1.png"
-    content: "Applied linguistics is a multidisciplinary field. Its research fields include:"
+    content: "Applied linguistics is an interdisciplinary field. Its research fields include:"
     bulletpoints:
       - "Second Language Aqcuisition"
       - "Language Assessment and Policy"
