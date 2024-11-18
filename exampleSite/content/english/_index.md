@@ -13,7 +13,7 @@ banner:
 features:
   - title: "Research Areas of Applied Linguistics"
     image: "/images/service-1.png"
-    content: "Applied linguistics is a multidisciplinary field."
+    content: "Applied linguistics is a multidisciplinary field. Its research fields include:"
     bulletpoints:
       - "Second Language Aqcuisition"
       - "Language Assessment and Policy"
@@ -26,13 +26,14 @@ features:
       label: ""
       link: ""
 
-  - title: "What to Learn More About Applied Linguistics?"
+  - title: "Questions We Talked About as Applied Linguists"
     image: "/images/service-2.png"
     content: "Recommended readings:"
     bulletpoints:
-      - "Canale, M., & Swain, M. (1980). Theoretical Bases of Communicative Approaches to Second Language Teaching and Testing."
-      - "McCarthy, M. (1991). Discourse Analysis for Language Teachers. Cambridge University Press."
-      - "Cook, G. (2003). Applied Linguistics. Oxford University Press."
+      - "What are some ways of conceptualizing (language) learning?"
+      - "How do applied linguists understand and talk about language, identity, and difference?"
+      - "How can applied linguists make a difference in the world?"
+      - "..."
     button:
       enable: true
       label: ""
